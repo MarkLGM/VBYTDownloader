@@ -30,5 +30,22 @@ HOW TO USE
 3. Choose quality.
 4. Click Download.
 
+## Known Limitations
+
+* Download queueing is not currently supported. Only one URL can be downloaded at a time.
+* Playlist size estimates are approximate and may differ from the final downloaded size.
+* Some metadata (FPS, codec, file size) depends on information provided by the source website and may occasionally be unavailable.
+* Tested primarily with YouTube videos and playlists.
+* Windows only.
+
+## Planned Features
+
+* Download queue support
+* Batch URL downloads
+* Improved playlist size estimation
+* Automatic yt-dlp and FFmpeg updates
+* Additional quality and format options
+
+
 Created by Mark LGM | tachyon.
 
