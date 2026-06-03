@@ -2,7 +2,7 @@
 
 A VB.NET YouTube downloader powered by yt-dlp and FFmpeg.
 
-![VBYTDownloader Screenshot](Screenshot 2026-06-03 121832.png)
+![VBYTDownloader Screenshot](screenshot.png)
 
 FEATURES
 
