@@ -3,11 +3,11 @@
 A VB.NET YouTube downloader powered by yt-dlp and FFmpeg.
 ## Default Theme
 
-![Default Theme](images/vbyt-default.png)
+![Default Theme](vbyt-default.png)
 
 ## Dark Mode
 
-![Dark Mode](images/vbyt-darkmode.png)
+![Dark Mode](vbyt-darkmode.png)
 
 FEATURES
 
