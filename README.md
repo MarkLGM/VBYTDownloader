@@ -1,8 +1,13 @@
 # VBYTDownloader v1.0
 
 A VB.NET YouTube downloader powered by yt-dlp and FFmpeg.
+## Default Theme
 
-![VBYTDownloader Screenshot] Screenshot 2026-06-03 121832.png
+![Default Theme](images/vbyt-default.png)
+
+## Dark Mode
+
+![Dark Mode](images/vbyt-darkmode.png)
 
 FEATURES
 
