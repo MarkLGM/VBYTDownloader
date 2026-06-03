@@ -36,16 +36,7 @@ HOW TO USE
 * To download multiple videos in a single operation, consider using a YouTube playlist. Playlist URLs are fully supported and all videos in the playlist will be downloaded automatically.
 * Playlist information such as video count and estimated playlist size is displayed before downloading.
 
-
-## Known Limitations
-
-* Download queueing is not currently supported. Only one URL can be downloaded at a time.
-* Playlist size estimates are approximate and may differ from the final downloaded size.
-* Some metadata (FPS, codec, file size) depends on information provided by the source website and may occasionally be unavailable.
-* Tested primarily with YouTube videos and playlists.
-* Windows only.
-
-### Playlist Support
+## Playlist Support
 
 VBYTDownloader supports YouTube playlists.
 
@@ -59,6 +50,13 @@ Not supported:
 * Private playlists requiring account access
 * Playlists containing videos that are unavailable, deleted, or restricted
 
+## Known Limitations
+
+* Download queueing is not currently supported. Only one URL can be downloaded at a time.
+* Playlist size estimates are approximate and may differ from the final downloaded size.
+* Some metadata (FPS, codec, file size) depends on information provided by the source website and may occasionally be unavailable.
+* Tested primarily with YouTube videos and playlists.
+* Windows only.
 
 ## Planned Features
 
