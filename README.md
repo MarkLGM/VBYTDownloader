@@ -2,6 +2,8 @@
 
 A VB.NET YouTube downloader powered by yt-dlp and FFmpeg.
 
+![VBYTDownloader Screenshot](Screenshot 2026-06-03 121832.png)
+
 FEATURES
 
 * MP4 Downloads (360p, 480p, 720p, 1080p)
