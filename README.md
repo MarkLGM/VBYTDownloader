@@ -1,4 +1,4 @@
-# VBYTDownloader v1.0
+# VBYTDownloader 
 A VB.NET YouTube downloader powered by yt-dlp and FFmpeg.
 
 ## Default Theme
